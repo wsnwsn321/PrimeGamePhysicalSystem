@@ -1,0 +1,32 @@
+LevelLoader.CreateGameObject("PEObject12_pPlane1",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, -8.326546, 0.0, -4.034357, 1.0, 'ccontrollvl0.x_PEObject12_pPlan.lua', 'Default',0x81a8b1c0, 0x1c5111e0, 0xa309001b, 0x213b583a)
+
+LevelLoader.CreateGameObject("PEObject16_tArrow",0.875067, 0.0, 0.484002, 0.0, 0.0, 1.0, -0.0, 0.0, -0.484002, -0.0, 0.875067, 0.0, 770.349103, 0.0, 305.266656, 1.0, 'ccontrollvl0.x_PEObject16_tArro.lua', 'Default',0x76f9d530, 0x1c5411e0, 0xbea5001b, 0x213b583a)
+
+LevelLoader.CreateGameObject("PEObject20_tArrow",-0.883695, 0.0, -0.468063, 0.0, -0.0, 1.0, -0.0, 0.0, 0.468063, 0.0, -0.883695, 0.0, 103.437318, 0.0, 785.527393, 1.0, 'ccontrollvl0.x_PEObject20_tArro.lua', 'Default',0xec53cb5e, 0x1c5411e0, 0x955f001b, 0x213b583a)
+
+LevelLoader.CreateGameObject("PEObject47_pPlane1",1.0, 0.0, -0.0, 0.0, 0.0, 0.0, -1.0, 0.0, -0.0, 1.0, 0.0, 0.0, -8.326546, 1250.487444, 1242.0383, 1.0, 'ccontrollvl0.x_PEObject47_pPlan.lua', 'Default',0x8d9340b0, 0xeb7c11e8, 0x89399829, 0xa6375add)
+
+LevelLoader.CreateGameObject("PEObject42_TspotRep",1.0, 0.0, 0.0, 0.0, -0.0, 0.0, 1.0, 0.0, -0.0, -1.0, 0.0, 0.0, 104.671377, 249.971079, 471.89208, 1.0, 'ccontrollvl0.x_PEObject42_Tspot.lua', 'Default',0x4434ae2e, 0x467411e2, 0x98f20025, 0xd3ac504f)
+
+LevelLoader.CreateGameObject("PEObject15_tArrow",0.412808, 0.0, -0.910818, 0.0, -0.0, 1.0, -0.0, 0.0, 0.910818, 0.0, 0.412808, 0.0, 457.839881, 0.0, 149.179105, 1.0, 'ccontrollvl0.x_PEObject15_tArro.lua', 'Default',0x7077e0cf, 0x1c5411e0, 0xb14b001b, 0x213b583a)
+
+LevelLoader.CreateGameObject("PEObject21_tArrow",0.802985, 0.0, 0.596, 0.0, 0.0, 1.0, -0.0, 0.0, -0.596, -0.0, 0.802985, 0.0, -332.337619, 0.0, 477.007469, 1.0, 'ccontrollvl0.x_PEObject21_tArro.lua', 'Default',0x90b4a1b0, 0x1c6011e0, 0x91c1001b, 0x213b583a)
+
+LevelLoader.CreateGameObject("PEObject28_pPlane1",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, -2500.0, 0.0, -4.034357, 1.0, 'ccontrollvl0.x_PEObject28_pPlan.lua', 'Default',0x102ebd70, 0x1c6811e0, 0x8cad001b, 0x213b583a)
+
+LevelLoader.CreateGameObject("PEObject19_tArrow",-0.488974, 0.0, 0.872298, 0.0, 0.0, 1.0, -0.0, 0.0, -0.872298, -0.0, -0.488974, 0.0, 416.458899, 0.0, 907.212917, 1.0, 'ccontrollvl0.x_PEObject19_tArro.lua', 'Default',0xe01bbe1e, 0x1c5411e0, 0xa2f0001b, 0x213b583a)
+
+LevelLoader.CreateGameObject("PEObject11_polySurface1",0.677511, -0.463397, -0.571175, 0.0, 0.684504, 0.681409, 0.259108, 0.0, 0.269134, -0.56652, 0.778859, 0.0, 188.463853, 415.850019, 31.255456, 1.0, 'ccontrollvl0.x_PEObject11_polyS.lua', 'Default',0x460ec6d1, 0x146911e0, 0x86d30025, 0xd3ac504f)
+
+LevelLoader.CreateGameObject("PEObject8_TspotRep",1.0, 0.0, 0.0, 0.0, -0.0, 0.004632, 0.999989, 0.0, -0.0, -0.999989, 0.004632, 0.0, 967.250827, 298.425626, -97.932148, 1.0, 'ccontrollvl0.x_PEObject8_TspotR.lua', 'Default',0x124cf5c0, 0x13a511e0, 0xa20c0025, 0xd3ac504f)
+
+LevelLoader.CreateGameObject("PEObject50_nazi_rep",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, 248.485758, 316.900363, 158.805096, 1.0, 'ccontrollvl0.x_PEObject50_nazi_.lua', 'Default',0xc6442ccf, 0xf04011e8, 0xb6a14403, 0x2cc4d500)
+
+LevelLoader.CreateGameObject("PEObject30_pPlane1",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, -2494.295318, 0.0, 2488.2724, 1.0, 'ccontrollvl0.x_PEObject30_pPlan.lua', 'Default',0x74f1004f, 0x1c6911e0, 0x9875001b, 0x213b583a)
+
+LevelLoader.CreateGameObject("PEObject48_polySurface1",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, 467.817693, 291.871463, -75.179373, 1.0, 'ccontrollvl0.x_PEObject48_polyS.lua', 'Default',0x47233851, 0xeb7d11e8, 0x8c1d9829, 0xa6375add)
+
+LevelLoader.CreateGameObject("PEObject49_pPlane1",1.0, 0.0, -0.0, 0.0, 0.0, 0.01001, 0.99995, 0.0, -0.0, -0.99995, 0.01001, 0.0, -8.326546, 1050.445923, -1249.711731, 1.0, 'ccontrollvl0.x_PEObject49_pPlan.lua', 'Default',0x85d91611, 0xf04011e8, 0xa2974403, 0x2cc4d500)
+
+LevelLoader.CreateGameObject("PEObject24_pPlane1",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, -8.0, 0.0, 2495.0, 1.0, 'ccontrollvl0.x_PEObject24_pPlan.lua', 'Default',0x60b0498f, 0x1c6711e0, 0xb81d001b, 0x213b583a)
+
